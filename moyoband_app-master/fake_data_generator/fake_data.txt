@@ -1,0 +1,129 @@
+bed_id,first_name,last_name,heart_rate,temperature,saturation,medical_description,age,weight,medicaments
+11,Janusz,Szymański,93,36.27,77.63,"uiLiAelltlxICpfgmsat
+hrweswcplnltfpckghbehbhcdcbaaa",69,50,
+12,Zbigniew,Nowak,111,36.67,85.15,"EWuzglBIaGiCw  uHExh
+bkyrktekrsnhfnpoblfdehafbbbbaa",25,58, Acotin
+13,Krystyna,Woźniak,59,36.12,91.05,"TRAjwyRrtaloIlFfwi k
+wBnlkulackmdkrcedlfedfdgcdbcba",27,80, Biofuroksym
+14,Piotr,Jankowski,58,36.18,96.94,"YsoydyB tmzEIGHool i
+ipmbklwnepepdoelalbhbbbffabcaa",46,81,
+15,Radosław,Kamiński,80,36.16,64.12,"YYHDNow Imfo pcFyknf
+eAkreaekhkesklkajebjhddcebbaaa",42,108," Cabometyx, Aflavic"
+16,Stanisława,Wójcik,86,36.73,82.74,"zMepyyEjAmrJtGfoFxmc
+oarzphrxxoajmpbabeggcefeaacbba",40,111," Nimesil, Biofuroksym"
+17,-,-,-,-,-,"No Info
+",-,-,-
+18,Kacper,Kaczmarek,81,36.99,81.35," g casLejBBymlfkhkbb
+ dehpuoshonnfbcekfgffbcgbcbaaa",37,100, Nimesil
+21,Grażyna,Szymański,73,36.13,72.2,"ukFeBCugEhNedgiAcgng
+mrrt zmegrbsgecmkddbjeefceabaa",30,80," Doxagen, Aspiryna"
+22,Jan,Kamiński,97,36.81,74.42,"nKG LOsRrhcsCwpnpF d
+  rduzshwoaomibonmcjcdaefebcaa",42,97," Doxagen, Equoral"
+23,Zofia,Kaczmarek,83,36.99,66.5,"Lwz ACNdwbneJssbAlEy
+eadpjbroscienebmfelhgafadeaaaa",84,82," Equoral, Aflavic"
+24,Zofia,Grabowski,73,37.31,84.73,"BF gNLzEPGrMDherA FA
+ik llyungmjrebfagkbegfcfabcaaa",62,59, Aflavic
+25,Kacper,Kowalski,79,37.28,69.28,"pocmUSORfzclnhguA Ey
+l gadgrasjtmilcbdaaiggcfbadbba",73,117,
+26,Mateusz,Kowalczyk,70,36.93,95.95,"YbntNxlwfrehocBo  zn
+wafgh gdxnbtjbldjlficabdfebbba",75,51," Nimesil, Equoral"
+27,Helena,Szymański,66,37.41,71.27,"JbXMlOHgGJdu dwAduFf
+AikAufysgujofelfcaiieigcebbbaa",51,75," Equoral, Aspiryna, Cabometyx"
+28,Jerzy,Zieliński,74,37.42,93.85,"fweNPapEGGFGzsmeDDgo
+ cwbrzgxjilgdmhonfjgcabefbbbaa",40,55," Nimesil, Equoral"
+31,Grażyna,Woźniak,55,36.29,89.25,"xEDsDcL bCgEBBC sjns
+kBnstfofjtftklhmcblbahegdccaaa",19,101," Aflavic, Biofuroksym"
+32,Danuta,Grabowski,72,37.0,95.83,"nhn xGRFIhDFDExDxkCi
+zAAxyfastwfjpgmfebkegaddcbbcba",66,70, Cabometyx
+33,Kazimierz,Kowalczyk,94,36.06,90.23,"m gErfLpBintyshpsAEm
+u irayaphpgdjeohafakibbcaaabaa",80,60, Doxagen
+34,Krzysztof,Piotrowski,56,36.72,81.88,"NxdFBxIpjMffbFHDGtuB
+hnhb wmdwtuibjohjmkgffbbbbcaba",69,75,
+35,-,-,-,-,-,"No Info
+",-,-,-
+36,Małgorzata,Kaczmarek,56,36.63,64.2,"upugyIH MeGdDEplofrE
+kworndrxksrakmeealghdghffbdcba",60,120, Acotin
+37,Barbara,Wojciechowski,89,37.47,79.74,"FIBtEfEF  pwtAjBGtpD
+oezdlzmjgiknmepoemddhcggaccaaa",54,49," Equoral, Biofuroksym"
+38,Janina,Wójcik,80,36.76,91.12,"ycbmfKDtj dGaycawtwj
+t ngpldwjltboehbdfcbadbefabcba",39,119,
+41,Teresa,Kowalski,109,36.95,72.2,"Snfy kCpPtcLlFubDmnD
+ijwtttcjosocabgmkadjbdgcaecaba",37,62," Nimesil, Biofuroksym"
+42,Karol,Dąbrowski,52,36.84,62.75,"tlRJr Gytaedulfyhwxz
+tnwkxeuxaklmrgjbjlcfgebebabaaa",29,107,
+43,Marianna,Kozłowski,104,37.08,96.86,"CWjtniiHMmxMtolHlspB
+iielfxxarusbjracigjkcdcfcadaba",66,107," Acotin, Doxagen, Aspiryna"
+44,Zbigniew,Szymański,67,36.39,96.99,"eLTTufCKmeMxbcHayzaa
+ocflntxwnfadhnclbkcjbcefcbcbba",79,108," Doxagen, Cabometyx, Equoral"
+45,Helena,Woźniak,106,37.13,77.46,"fRPs hmrBrxwoBhFpFzm
+arkp peesjmksbaohghbgcababdaba",76,78, Aspiryna
+46,Mirosław,Kwiatkowski,86,36.91,96.8,"HiP bcm kFGBbEofukmD
+axh ctywkithkijbekafaihafbacaa",27,76," Acotin, Nimesil"
+47,Edward,Kowalczyk,107,37.43,62.99,"kOuzssyKdwxMwGtmxCAC
+ oxlt xrcnmrrkidkhebfbeeaebbba",80,86,
+48,Stanisława,Grabowski,59,36.68,76.79,"MrBKJStKumopxxgCzbro
+drscphspefdcgrgjfejfeiegeeacaa",52,103," Nimesil, Doxagen"
+51,Mateusz,Piotrowski,109,36.11,89.3,"hPEwHgLNzjkhycms pxf
+poBk wdtjlgbihdceddiifacfbbcba",88,70," Nimesil, Aspiryna"
+52,Kazimierz,Wojciechowski,79,36.51,83.37,"PYEBIlsGtuNn jyHH zr
+Bxarerxebahrjinaheabfbhdceabba",70,52," Doxagen, Equoral"
+53,Józef,Grabowski,95,37.19,99.52,"SxxeHjAkObblhusBhuby
+Bgkioyrnujdapifgahldededaabaaa",66,57, Equoral
+54,Zbigniew,Lewandowski,89,36.38,66.25,"ZkGCmJcpwyAtissiCjhu
+ cyjfcgwmrlsmjhjmklfafafdcaaaa",73,79," Nimesil, Equoral"
+55,Maria,Krawczyk,82,36.1,68.64,"HFXMuiCDaxuJsFfazEiC
+njimitbmpeksfidgnhdkidgdfdbaba",25,81, Acotin
+56,Bożena,Kowalczyk,63,37.28,80.98,"YN IjHwghDhhnGAcxtch
+oezmgawynugisnhcglacdibcbcbaba",78,112,
+57,Wanda,Szymański,50,37.17,98.78,"JR Akpt pjMyDhnDxfAw
+wkxxpruxwkcfiomldacjjhecdbccaa",33,118,
+58,Bożena,Grabowski,51,36.87,75.71,"jFNhRypitgeoHCHAzzhm
+B kepjthkkitleeemaefdfabccdbaa",90,88," Nimesil, Biofuroksym"
+61,Marek,Dąbrowski,66,37.37,99.69,"MGEDiAMxuKJgBiwnsc x
+ciiAdynggnlpsiblmhegedbadddbba",83,117," Cabometyx, Aspiryna"
+62,Edward,Kowalski,73,36.08,77.99,"UeABJS tC  LfpHGblBr
+iurtp unuspdcpiojagabeffbbcbba",30,103," Doxagen, Aflavic"
+63,Ewa,Kamiński,79,37.41,66.5,"hTwW AjaIALEmznsAigg
+zbstwdbkrkolfbldgjebdacbaebbaa",42,109,
+64,Dorota,Kowalski,87,36.93,94.03,"XzuknlxojAd rBcdFujs
+ bjpfdrhmkdbjobnaibkbebdbeabba",53,72," Doxagen, Equoral"
+65,Helena,Jankowski,66,36.95,75.27,"Mlffxa leiJLouuoxxFo
+Cmdzizluuubbejmghgcdidbffcbaaa",32,81,
+66,Jan,Szymański,101,36.74,86.97,"oI LpEsNpLcjHFhDybxh
+okcgntwkmdulabgjjhefjffcdbacaa",86,57," Nimesil, Doxagen, Acotin"
+67,Ewa,Nowak,56,36.34,88.68,"dbimp t IrFJzdbuGDbB
+  Bg bgyxdrbajkhmlccbfbfedacba",74,55," Doxagen, Aflavic"
+68,Krystyna,Kowalczyk,115,36.04,83.33,"FGkPzrjfAcGuGmkEcAww
+ nrfywzcdgfshdblacbhdbegdabbaa",20,105,
+71,Andrzej,Kaczmarek,100,36.59,96.18,"uaLJlwmfkjMADKFeAztm
+gblnlpibgufhseefeljiccbbddabba",69,90, Aflavic
+72,Grażyna,Kamiński,53,36.42,64.15,"zsSWaT pCAut jlfzyze
+mByhbwxbgstlahjjdjjagchcdbacaa",74,47,
+73,Andrzej,Woźniak,118,36.59,79.62,"KB FECLCj uokpfdlcsc
+iwAliwxiresprkjmgabheihbacabaa",44,109," Acotin, Aspiryna"
+74,Urszula,Woźniak,69,36.72,83.71,"pimBfMa azgDzgGFkllp
+j m n eogmfigremhglkcedfcedbba",24,98, Doxagen
+75,Krzysztof,Kaczmarek,50,36.96,81.0,"oJsMk  xLrMupACfFojs
+DeeAj iedffhopkfndcbfgggedcaba",53,78,
+76,Natalia,Kwiatkowski,118,36.8,65.36,"TcDPcpncKLELufiCG Bm
+Batgilrlommmgokjjglhbcfcbdacba",48,105,
+77,Adam,Zieliński,119,36.98,66.95,"YLdrukBFPrDcaIIIfEmk
+lg Ahbljbhnanlmickeciehabdbcba",47,101," Nimesil, Doxagen, Cabometyx"
+78,Czesław,Wiśniewski,120,36.65,67.02,"gnkJkNfmLtlechdCo cA
+zbc ykxjtmsfdkcjjcebgfgffcbbaa",87,75, Aflavic
+81,Janusz,Mazur,103,36.15,62.88,"UNOFGGihCar r BztkFe
+modAiooexcappldhmbdbicbfedbcba",85,66,
+82,Helena,Wojciechowski,59,37.36,89.63,"NWyPUenKypIbkFdsoscg
+elpawsiuoptrhadcnahafcgafabcba",79,57, Aflavic
+83,Mateusz,Wójcik,82,36.76,72.23,"whzujhDBfyr Anwnlczi
+tzibpjzgscdbficdmaficdbgeddbba",19,94, Biofuroksym
+84,Mieczysław,Kowalski,55,36.68,87.99,"lHBnhxNEpMIujbAhhjfi
+pmBh lzefbbnjjobadcehbacebdcaa",54,118,
+85,Wojciech,Kaczmarek,69,37.06,84.5,"UgwraoItlmCEwHwgfhbg
+ktzsnyokctbjjfdfhllcbbhgcdbaba",64,45," Acotin, Cabometyx, Biofuroksym"
+86,Urszula,Woźniak,89,36.84,83.67,"mSKIkJdgwBaieFlznuBu
+ fdatgankculemaohecfefgbabdaaa",21,55, Aspiryna
+87,Tadeusz,Jankowski,106,36.93,61.2,"menNpTHMoyhMuFbxeoeC
+lkredchtbgtbalgbaggiigfcdadcba",37,75,
+88,Wiesław,Wiśniewski,51,36.36,93.66,"nrKzJpfenouzAntalFoE
+eobraytowigbjrcdnhacbafaecbbba",68,90,

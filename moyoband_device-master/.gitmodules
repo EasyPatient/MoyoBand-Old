@@ -1,0 +1,4 @@
+[submodule "nrf-sdk-17.0.0"]
+	path = nrf-sdk-17.0.0
+	url = https://gitlab.com/sajdak.radoslaw/nrf-sdk-17.0.0.git
+	branch = master
